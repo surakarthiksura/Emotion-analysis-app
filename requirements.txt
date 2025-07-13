@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+deepface
+SpeechRecognition
+librosa
+scikit-learn
+matplotlib
+seaborn
+pandas
